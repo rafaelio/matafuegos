@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="ie7.css" server="ftp.matafuegos10.com/public_html/" local="130115060760000000" remote="130220863800000000" Dst="0" />
-<file name="ie8.css" server="ftp.matafuegos10.com/public_html/" local="130115060760000000" remote="130220863800000000" Dst="0" />
-<file name="ie9.css" server="ftp.matafuegos10.com/public_html/" local="130115060760000000" remote="130220863800000000" Dst="0" />
-<file name="skel-noscript.css" server="ftp.matafuegos10.com/public_html/" local="130151931100000000" remote="130220863800000000" Dst="0" />
-<file name="style-1000px.css" server="ftp.matafuegos10.com/public_html/" local="130115060760000000" remote="130220863800000000" Dst="0" />
-<file name="style-desktop.css" server="ftp.matafuegos10.com/public_html/" local="130184172309990600" remote="130220863800000000" Dst="0" />
-<file name="style-mobile.css" server="ftp.matafuegos10.com/public_html/" local="130149772540000000" remote="130220863800000000" Dst="0" />
-<file name="style.css" server="ftp.matafuegos10.com/public_html/" local="130184193360944909" remote="130220863800000000" Dst="0" />
+<file name="ie.css" server="ftp.matafuegos-abc.com.ar" local="129534180800000000" remote="130017925200000000" Dst="0" />
+<file name="layout.css" server="ftp.matafuegos-abc.com.ar" local="129534181100000000" remote="130017925200000000" Dst="0" />
+<file name="reset.css" server="ftp.matafuegos-abc.com.ar" local="129534183220000000" remote="130017925200000000" Dst="0" />
+<file name="style.css" server="ftp.matafuegos-abc.com.ar" local="130035017727008736" remote="130035226200000000" Dst="0" />
+<file name="ie.css" server="185.28.21.42" local="129534180800000000" remote="130214914200000000" Dst="0" />
+<file name="layout.css" server="185.28.21.42" local="129534181100000000" remote="130214914200000000" Dst="0" />
+<file name="reset.css" server="185.28.21.42" local="129534183220000000" remote="130214914200000000" Dst="0" />
+<file name="style.css" server="185.28.21.42" local="130035017727008736" remote="130214914200000000" Dst="0" />
+<file name="ie.css" server="ftp.matafuegos-argentina.com" local="129534180800000000" remote="130548604200000000" Dst="0" />
+<file name="layout.css" server="ftp.matafuegos-argentina.com" local="129534181100000000" remote="130548604200000000" Dst="0" />
+<file name="reset.css" server="ftp.matafuegos-argentina.com" local="129534183220000000" remote="130548604200000000" Dst="0" />
+<file name="style.css" server="ftp.matafuegos-argentina.com" local="130035017727008736" remote="130548604200000000" Dst="0" />
+<file name="layout.css" server="ftp.matafuegos-argentina.com/public_html/" local="129534181100000000" remote="130548607200000000" Dst="0" />
+<file name="ie.css" server="ftp.matafuegos-argentina.com/public_html/" local="129534180800000000" remote="130548607200000000" Dst="0" />
+<file name="reset.css" server="ftp.matafuegos-argentina.com/public_html/" local="129534183220000000" remote="130548607200000000" Dst="0" />
+<file name="style.css" server="ftp.matafuegos-argentina.com/public_html/" local="130035017727008736" remote="130548607200000000" Dst="0" />
 </dwsync>
